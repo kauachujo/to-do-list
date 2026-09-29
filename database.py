@@ -49,3 +49,4 @@ def get_task(task_id):
     for t in task_list:
         if t.id == task_id:
             return t
+    return None
