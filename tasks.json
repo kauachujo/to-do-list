@@ -1,0 +1,20 @@
+[
+  {
+    "task": "Estudar Flask",
+    "text": "Terminar a API",
+    "status": "rs",
+    "id": 1
+  },
+  {
+    "task": "Pagar as contas",
+    "text": "de energia e \u00e1gua",
+    "status": "oi",
+    "id": 3
+  },
+  {
+    "task": "Teste",
+    "text": "123456",
+    "status": "pendente",
+    "id": 4
+  }
+]
